@@ -1,0 +1,21 @@
+.sidebar{
+    width: 280px;
+    height: 80vh;
+    /* background: grey; */
+    float: left;
+    margin: 20px;
+    margin-right:0;
+    padding-right: 0;
+    padding: 30px;
+    line-height: 1.4;
+}
+
+.sidebar .avatar {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.sidebar .bio {
+    margin-top: 10px;
+}
